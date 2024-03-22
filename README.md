@@ -12,3 +12,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Check the [CONTRIBUTING](https://github.com/priyanshu2015/LetsStockify/blob/main/contributing.md) for more info.
 
 
+## License
+[GNU](https://choosealicense.com/licenses/gpl-3.0/)
